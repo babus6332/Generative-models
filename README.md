@@ -1,2 +1,2 @@
 # Generative-models
-Generative models - SBT Course
+Generative models - SBT Course MIPT
